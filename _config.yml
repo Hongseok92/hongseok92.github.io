@@ -16,7 +16,7 @@ website: https://hongseok.netlify.app/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
@@ -59,10 +59,10 @@ about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+
     - Lists
     - Tables
     - <a href="google.com">Links</a>
-    - ![alt text]()
 
 content:
   - title: Research # Title for the section
