@@ -68,7 +68,7 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: top-middle
         title: Downward trend in Hand to Mouth Households in South Korea
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Master Thesis @ Hanyang University
@@ -92,12 +92,20 @@ content:
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          SDownward trend in Hand to Mouth Households in South Korea
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   - title: Education
     layout: list
     content:
+      - layout: top-right 
+        title: Iowa State University
+        sub_title: Ph.D in Economics
+        caption: 2021 ~ Current       
+      - layout: top-right 
+        title: Hanyang University 
+        sub_title: M.A in Economics and Finance 
+        caption: 2021        
       - layout: top-right
         title: Hanyang University
         sub_title: B.A in Economics and Finance 
@@ -106,10 +114,7 @@ content:
           # Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
           # Description of qualification
-      - layout: top-right 
-        title: Hanyang University 
-        sub_title: M.A in Economics and Finance 
-        caption: 2021        
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
