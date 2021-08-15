@@ -68,7 +68,7 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-right
+      - layout: left
         title: Downward trend in Hand to Mouth Households in South Korea
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Master Thesis @ Hanyang University
@@ -79,14 +79,14 @@ content:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Master Thesis @ Hanyang University
+        # quote: >
+        #   Master Thesis @ Hanyang University
         description: | # this will include new lines to allow paragraphs
           Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Iowa State University
         sub_title: Graduate Assistant
         caption: Date Range (2021 - Current)
@@ -98,15 +98,15 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right 
+      - layout: left 
         title: Iowa State University
         sub_title: Ph.D in Economics
         caption: 2021 ~ Current       
-      - layout: top-right 
+      - layout: left
         title: Hanyang University 
         sub_title: M.A in Economics and Finance 
         caption: 2021        
-      - layout: top-right
+      - layout: left
         title: Hanyang University
         sub_title: B.A in Economics and Finance 
         caption: 2019
