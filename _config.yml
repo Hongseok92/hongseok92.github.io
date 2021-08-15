@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  Hongseok92
+github_username: Hongseok92
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -34,10 +34,10 @@ instagram_username: jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -54,7 +54,7 @@ about_profile_image: /images/hongseok.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hello! Welcome to my website. 
 
-  I am Hongseok Kim, a Ph.D graduate in economics at Iowa State University. My research interests lie between macroeconomics and labor economics. I pursue to deepen my understanding in the role of population dynamics with respect to institutional settings and their impacts on labor market.
+  I am Hongseok Kim, a Ph.D student in economics at Iowa State University. My research interests lie between macroeconomics and labor economics. I pursue to deepen my understanding in the role of population dynamics with respect to institutional settings and their impacts on labor market.
   
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -68,31 +68,31 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: Downward trend in Hand to Mouth Households in South Korea
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Master Thesis @ Hanyang University
-        # additional_links:
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Master Thesis @ Hanyang University
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Iowa State University
+        sub_title: Graduate Assistant
+        caption: Date Range (2021 - Current)
+        # link: Link to company (optional)
         quote: >
-          SDownward trend in Hand to Mouth Households in South Korea
+          Downward trend in Hand to Mouth Households in South Korea
         description: | # this will include new lines to allow paragraphs
           Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   - title: Education
