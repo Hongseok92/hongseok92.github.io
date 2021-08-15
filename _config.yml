@@ -68,7 +68,7 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-left
         title: Downward trend in Hand to Mouth Households in South Korea
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Master Thesis @ Hanyang University
@@ -104,8 +104,9 @@ content:
         caption: 2019
         # quote: >
           # Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        # description: | # this will include new lines to allow paragraphs
+          # Description of qualification
+      - layout: top-right 
         title: Hanyang University 
         sub_title: M.A in Economics and Finance 
         caption: 2021        
