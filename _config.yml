@@ -72,10 +72,10 @@ content:
         title: Downward trend in Hand to Mouth Households in South Korea
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Master Thesis @ Hanyang University
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -89,27 +89,27 @@ content:
       - layout: left
         title: Iowa State University
         sub_title: Graduate Assistant
-        caption: Date Range (2021 - Current)
+        caption: Sep. 2021 ~ *Current
         # link: Link to company (optional)
         # quote: >
           # Downward trend in Hand to Mouth Households in South Korea
         description: | # this will include new lines to allow paragraphs
           Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  - title: Education
-    layout: list
-    content:
-      - layout: left 
-        title: Iowa State University
-        sub_title: Ph.D in Economics
-        caption: 2021 ~ Current       
-      - layout: left
-        title: Hanyang University 
-        sub_title: M.A in Economics and Finance 
-        caption: 2021        
-      - layout: left
-        title: Hanyang University
-        sub_title: B.A in Economics and Finance 
-        caption: 2019
+  # - title: Education
+  #   layout: list
+  #   content:
+  #     - layout: left 
+  #       title: Iowa State University
+  #       sub_title: Ph.D in Economics
+  #       caption: 2021 ~ Current       
+  #     - layout: left
+  #       title: Hanyang University 
+  #       sub_title: M.A in Economics and Finance 
+  #       caption: 2021        
+  #     - layout: left
+  #       title: Hanyang University
+  #       sub_title: B.A in Economics and Finance 
+  #       caption: 2019
         # quote: >
           # Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
