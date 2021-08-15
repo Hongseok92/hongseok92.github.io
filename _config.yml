@@ -91,15 +91,15 @@ content:
         sub_title: Graduate Assistant
         caption: Date Range (2021 - Current)
         # link: Link to company (optional)
-        quote: >
-          Downward trend in Hand to Mouth Households in South Korea
+        # quote: >
+          # Downward trend in Hand to Mouth Households in South Korea
         description: | # this will include new lines to allow paragraphs
           Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   - title: Education
     layout: list
     content:
       - layout: left 
-        title: Iowa State University
+        title: Iowa State University      Hanyang University 
         sub_title: Ph.D in Economics
         caption: 2021 ~ Current       
       - layout: left
