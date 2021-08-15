@@ -68,7 +68,7 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: top-right
         title: Downward trend in Hand to Mouth Households in South Korea
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Master Thesis @ Hanyang University
