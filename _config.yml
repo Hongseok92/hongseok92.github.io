@@ -68,7 +68,7 @@ content:
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Downward trend in Hand to Mouth Households in South Korea
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Master Thesis @ Hanyang University
@@ -99,7 +99,7 @@ content:
     layout: list
     content:
       - layout: left 
-        title: Iowa State University      Hanyang University 
+        title: Iowa State University
         sub_title: Ph.D in Economics
         caption: 2021 ~ Current       
       - layout: left
